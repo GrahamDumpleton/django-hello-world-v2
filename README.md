@@ -2,4 +2,6 @@
 
 This is a simple Django Hello World application.
 
-Django and Gunicorn are listed in the ``requirements.txt`` file.
+Only Django is listed in the ``requirements.txt`` file.
+
+A ``.warpdrive`` directory is provided which sets the server as ``mod_wsgi``.
