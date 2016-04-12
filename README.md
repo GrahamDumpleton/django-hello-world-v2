@@ -2,6 +2,4 @@
 
 This is a simple Django Hello World application.
 
-Only Django is listed in the ``requirements.txt`` file.
-
-A ``.warpdrive`` directory is provided which sets the server as ``django``.
+It is a test for using ``warpdrive``, forcing the 'django' deployment model.
